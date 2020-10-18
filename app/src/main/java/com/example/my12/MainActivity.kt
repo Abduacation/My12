@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         if (savedInstanceState != null){
             model = ViewModelProviders.of(this).get(MainModel::class.java)
         }
+        //sfsdjfdsijfdsdskkfjkdsf
 
         val etText: EditText = findViewById(R.id.et);
         val button = findViewById<Button>(R.id.buttonEnter)
