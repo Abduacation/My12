@@ -38,6 +38,8 @@ class MainActivity : AppCompatActivity() {
         etText.setText(text1)
 
 
+        // For Github updates...
+
     }
 
     companion object {
